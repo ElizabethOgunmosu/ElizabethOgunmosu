@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Elizabeth Ogunmosu</h1>
 <h3 align="center">A passionate data scientist from Nigeria</h3>
 
-          ![image](https://user-images.githubusercontent.com/124097133/225975691-b9f75723-1a87-433e-b392-d6cae79aa4f5.png)
+![image](https://user-images.githubusercontent.com/124097133/225975691-b9f75723-1a87-433e-b392-d6cae79aa4f5.png)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=elizabethogunmosu&label=Profile%20views&color=0e75b6&style=flat" alt="elizabethogunmosu" /> </p>
 
