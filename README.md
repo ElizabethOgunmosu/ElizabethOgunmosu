@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Elizabeth Ogunmosu</h1>
 <h3 align="center">A passionate data scientist from Nigeria</h3>
+
 https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLZ9acoVJjcneo6OoWeX0c-841UNXCpFnR7A&usqp=CAU
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=elizabethogunmosu&label=Profile%20views&color=0e75b6&style=flat" alt="elizabethogunmosu" /> </p>
